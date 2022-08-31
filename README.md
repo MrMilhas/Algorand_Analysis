@@ -7,6 +7,7 @@ Repositório criado para coletar dados e analisar o comportamento da rede Algora
 ```
 ├───data
 │   ├───accounts
+|   └───graphs
 │   └───transactions
 └───src
 ```
